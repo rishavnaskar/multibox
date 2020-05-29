@@ -1,6 +1,6 @@
 # multibox
 
-A new Flutter application.
+To-do list, weather and news, all inside a MultiBox!
 
 ## Getting Started
 
