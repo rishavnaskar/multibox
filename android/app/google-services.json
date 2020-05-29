@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900215855800",
+    "firebase_url": "https://multi-box-47ec8.firebaseio.com",
+    "project_id": "multi-box-47ec8",
+    "storage_bucket": "multi-box-47ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900215855800:android:6be9ddfdbe027ea7b1724d",
+        "android_client_info": {
+          "package_name": "com.rishav.multibox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900215855800-nh0rofrhclvqmq96q5jg5ubjdgr1ik9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.multibox",
+            "certificate_hash": "9db809c835f76af3a398ec7b7037d299b9cfd46c"
+          }
+        },
+        {
+          "client_id": "900215855800-12518cvjvk9g102mqtp478o2p3h2amti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqAiJ6kF1S6nhKN30WwMmJsWojjk7YGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900215855800-12518cvjvk9g102mqtp478o2p3h2amti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
